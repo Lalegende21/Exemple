@@ -1,0 +1,12 @@
+#git {
+    /* background-color: linear-gradient(to right green, red, yellow); */
+    background-color: aqua;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50rem;
+    height: 20rem;
+    margin: auto;
+    font-size: 4rem;
+}
